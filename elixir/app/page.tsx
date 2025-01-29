@@ -137,7 +137,7 @@ const Page = () => {
       alert("Certificate generated successfully! Check your email.");
     } catch (err) {
       console.error(err);
-      alert('Failed to generate certificate. Please try again later.');
+      alert("This feature isn't working right now. Please try again later!");
     }
   };
 
