@@ -1,0 +1,9 @@
+Begin Making ArithmeticPotion
+Set x = 10
+Set y = 5
+Add x y
+Subtract x y
+Multiply x y
+Divide x y
+Finish Making ArithmeticPotion
+Bottle Potion ArithmeticPotion

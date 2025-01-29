@@ -1,0 +1,13 @@
+Begin Making FibonacciPotion
+Set a = 0
+Set b = 1
+Say a
+Say b
+Loop 98
+    Set c = a Add b
+    Say c
+    Set a = b
+    Set b = c
+End Loop
+Finish Making FibonacciPotion
+Bottle Potion FibonacciPotion

@@ -1,0 +1,7 @@
+Begin Making LoopPotion
+Loop 10
+    Say "Loop iteration: "
+    Say i
+End Loop
+Finish Making LoopPotion
+Bottle Potion LoopPotion

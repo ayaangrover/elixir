@@ -1,0 +1,8 @@
+Begin Making RepeatPotion
+Say "Start"
+Repeat 3 times
+    Say "In Loop"
+End Repeat
+Say "End"
+Finish Making RepeatPotion
+Bottle Potion RepeatPotion

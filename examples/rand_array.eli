@@ -1,0 +1,13 @@
+Begin Making ArrayPotion
+Array Students = ["Student1", "Student2", "Student3", "Student4", "Student5", "Student6", "Student7", "Student8", "Student9", "Student10", "Student11", "Student12", "Student13", "Student14", "Student15", "Student16", "Student17", "Student18", "Student19", "Student20", "Student21", "Student22", "Student23", "Student24"]
+RandomAssign Students Gryffindor Ravenclaw Hufflepuff Slytherin
+Say "Gryffindor: "
+Say Gryffindor
+Say "Ravenclaw: "
+Say Ravenclaw
+Say "Hufflepuff: "
+Say Hufflepuff
+Say "Slytherin: "
+Say Slytherin
+Finish Making ArrayPotion
+Bottle Potion ArrayPotion

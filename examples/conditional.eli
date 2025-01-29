@@ -1,0 +1,10 @@
+Begin Making ConditionalPotion
+Set a = 10
+Set b = 5
+If a > b
+    Say "a is greater than b"
+Else
+    Say "a is not greater than b"
+End If
+Finish Making ConditionalPotion
+Bottle Potion ConditionalPotion
